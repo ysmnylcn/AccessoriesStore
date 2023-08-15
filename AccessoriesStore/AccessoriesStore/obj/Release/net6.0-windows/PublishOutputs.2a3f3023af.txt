@@ -1,0 +1,11 @@
+C:\Users\ysmny\Desktop\Github\accessories\AccessoriesStore.exe
+C:\Users\ysmny\Desktop\Github\accessories\AccessoriesStore.dll
+C:\Users\ysmny\Desktop\Github\accessories\AccessoriesStore.deps.json
+C:\Users\ysmny\Desktop\Github\accessories\AccessoriesStore.runtimeconfig.json
+C:\Users\ysmny\Desktop\Github\accessories\AccessoriesStore.pdb
+C:\Users\ysmny\Desktop\Github\accessories\System.Data.SqlClient.dll
+C:\Users\ysmny\Desktop\Github\accessories\runtimes\win-arm64\native\sni.dll
+C:\Users\ysmny\Desktop\Github\accessories\runtimes\win-x64\native\sni.dll
+C:\Users\ysmny\Desktop\Github\accessories\runtimes\win-x86\native\sni.dll
+C:\Users\ysmny\Desktop\Github\accessories\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ysmny\Desktop\Github\accessories\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

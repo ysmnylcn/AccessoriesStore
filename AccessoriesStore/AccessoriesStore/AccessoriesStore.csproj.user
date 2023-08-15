@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ysmny\source\repos\AccessoriesStore\AccessoriesStore\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSelectProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
